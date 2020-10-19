@@ -1,0 +1,29 @@
+h1 {
+
+  color: #fdffff;
+  text-align: center;
+  background: #a90303;
+}
+a{
+text-decoration: none;
+}
+section img
+{
+  border: 3px dashed black;
+}
+.color{
+  color: #0404ae;
+}
+.colortext{
+color: #0446d6;
+}
+.foto{
+ text-align: center;
+  border: none;
+ }
+.tekct{
+  text-align: center;
+  font-size: 20px;
+  background: #030000;
+  color: #ffffff;
+}
